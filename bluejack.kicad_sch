@@ -2765,7 +2765,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Audio:AudioPlug3")
-		(at 105.41 31.75 0)
+		(at 106.68 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2774,7 +2774,7 @@
 		(fields_autoplaced yes)
 		(uuid "11b47d86-ab89-405f-9752-4c97d4d51d88")
 		(property "Reference" "J4"
-			(at 105.41 21.59 0)
+			(at 106.68 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2782,7 +2782,7 @@
 			)
 		)
 		(property "Value" "AudioPlug3"
-			(at 105.41 24.13 0)
+			(at 106.68 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2790,7 +2790,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 107.95 33.02 0)
+			(at 109.22 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2799,7 +2799,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 107.95 33.02 0)
+			(at 109.22 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2808,7 +2808,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS)"
-			(at 105.41 31.75 0)
+			(at 106.68 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
